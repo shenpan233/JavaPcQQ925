@@ -29,9 +29,11 @@ This is a protocol Robot for PcQQ9.2.5,but it's not perfect.
   
   目前只有3个**可用**API，我还是太菜了,直接上JSON数据，自己看着组吧QWQ  
   
-  以下斜体为变量，根据自己需求改变  
-  初始化：{"cmd":"Init","Name":`插件名称`,"Writer":`作者的大名`}  
-  
+  以下加粗为变量，根据自己需求改变  
+  初始化：{"cmd":"Init","Name":**插件名称**,"Writer":**作者的大名**}  
+  发好友消息：{"cmd":"SendFriendMsg","FriendQQ":**好友QQ**,"Msg",**消息内容**}  
+  发群消息：{"cmd":"GroupUin","FriendQQ":**群号**,"Msg",**消息内容**}  
+    - 消息变量说明：[TR:at=**QQ号**]群可用 图片变量：[TR:pic=**GUID**](Guid可通过发消息给机器人日志中获取！)  
   
   
 
