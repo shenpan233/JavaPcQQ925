@@ -22,4 +22,17 @@ This is a protocol Robot for PcQQ9.2.5,but it's not perfect.
         - qq.java   =>主程序main函数
       - tools =>工具类，用于Tea加密和字节数组操作  
 #### 其他的**看名字结合翻译工具**就能懂了不细讲！
+
+## 插件系统
+  **默认端口2333**，协议方式为**UDP**，通讯方式**JSON**  
+  你也可以到**Plugin/PluginServer**下修改**类变量port**的参数来修改端口  
+  
+  目前只有3个**可用**API，我还是太菜了,直接上JSON数据，自己看着组吧QWQ  
+  
+  以下斜体为变量，根据自己需求改变  
+  初始化：{"cmd":"Init","Name":`插件名称`,"Writer":`作者的大名`}  
+  
+  
+  
+
 # ``由于java代码安全性极差，已经放弃本项目``
