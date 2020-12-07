@@ -33,7 +33,7 @@ This is a protocol Robot for PcQQ9.2.5,but it's not perfect.
   初始化：{"cmd":"Init","Name":**插件名称**,"Writer":**作者的大名**}  
   发好友消息：{"cmd":"SendFriendMsg","FriendQQ":**好友QQ**,"Msg",**消息内容**}  
   发群消息：{"cmd":"GroupUin","FriendQQ":**群号**,"Msg",**消息内容**}  
-    - 消息变量说明：[TR:at=**QQ号**]群可用 图片变量：[TR:pic=**GUID**](Guid可通过发消息给机器人日志中获取！)  
+    - 消息变量说明：群里艾特：\[TR:at=**QQ号**\] 图片变量：\[TR:pic=**GUID**\](Guid可通过发消息给机器人日志中获取！)  
   
   
 
