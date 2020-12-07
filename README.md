@@ -21,5 +21,5 @@ This is a protocol Robot for PcQQ9.2.5,but it's not perfect.
         - _Tlv.java =>tlv类型数据组包
         - qq.java   =>主程序main函数
       - tools =>工具类，用于Tea加密和字节数组操作  
-其他的**看名字结合翻译工具**就能懂了不细讲！
+#### 其他的**看名字结合翻译工具**就能懂了不细讲！
 # ``由于java代码安全性极差，已经放弃本项目``
