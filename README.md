@@ -36,5 +36,6 @@ This is a protocol Robot for PcQQ9.2.5,but it's not perfect.
     - 消息变量说明：群里艾特：\[TR:at=**QQ号**\] 图片变量：\[TR:pic=**GUID**\](Guid可通过发消息给机器人日志中获取！)  
   
   
-
+## 发行版使用方法  
+对于不会java的小白，你可以打开**cmd**，输入**java -jar 下载jar包路径**来使用  
 # ``由于java代码安全性极差，已经放弃本项目``
