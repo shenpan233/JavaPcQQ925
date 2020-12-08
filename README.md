@@ -37,5 +37,5 @@ This is a protocol Robot for PcQQ9.2.5,but it's not perfect.
   
   
 ## 发行版使用方法  
-对于不会java的小白，你可以打开**cmd**，输入**java -jar 下载jar包路径**来使用  
+对于不会java的小白，你可以打开**cmd**，输入**java -jar 下载jar包的路径**  来使用  
 # ``由于java代码安全性极差，已经放弃本项目``
